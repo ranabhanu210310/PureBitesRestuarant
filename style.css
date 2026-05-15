@@ -75,7 +75,7 @@ body {
 
 .hero {
     margin-top: 80px;
-    background-image: linear-gradient(to right, rgba(62, 39, 35, 0.1), rgba(62, 39, 35, 0.85)), url(/ProjectResturant/images/photo_2026-05-13_16-56-57.jpg);
+    background-image: linear-gradient(to right, rgba(62, 39, 35, 0.1), rgba(62, 39, 35, 0.85)), url(photo_2026-05-13_16-56-57.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
